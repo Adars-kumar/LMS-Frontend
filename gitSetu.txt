@@ -1,6 +1,6 @@
 1. git init
 2. git add .
-3.  git commit -m "setting up plain vite project"
-4.  git remote add origin https://github.com/   Adars-kumar/LMS-Frontend.git
-5.  git checkout -b master
+3. git commit -m "setting up plain vite project"
+4. git remote add origin https://github.com/   Adars-kumar/LMS-Frontend.git
+5. git checkout -b master
 6. git push origin master
