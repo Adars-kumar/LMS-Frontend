@@ -89,3 +89,14 @@
         "source.fixAll.eslint": true
     },
 -----
+
+5. Output Images: 
+-----
+
+   ![img-0](https://github.com/user-attachments/assets/dee54fd7-1fdb-4902-a112-58cd0d9f4fdf)
+   ![img-1](https://github.com/user-attachments/assets/57f77b78-1c54-4e5e-8952-e99b144656cb)
+   ![img-2](https://github.com/user-attachments/assets/f767a893-b922-4b90-afd9-c4e4865c43fb)
+   ![img-3](https://github.com/user-attachments/assets/67eb9b1a-0edb-448b-85b8-e7d8782b3063)
+   ![img-4](https://github.com/user-attachments/assets/80a5a83c-21b5-4ac3-881a-8a85559d13cc)
+
+-----
